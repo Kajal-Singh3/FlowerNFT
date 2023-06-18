@@ -1,9 +1,9 @@
 {
     "name":"flower token",
     "description":"launching my first nft",
-    "image": "",
+    "image": "https://kajal-singh3.github.io/FlowerNFT/image/flower.png",
 
-    "external_url": "",
+    "external_url": "https://kajal-singh3.github.io/FlowerNFT",
     "attributes": [
         {
             "trait_type": "Artefact",
